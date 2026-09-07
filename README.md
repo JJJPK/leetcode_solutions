@@ -6,13 +6,14 @@
 | Category | Solved |
 |---|---|
 | Array | 1 |
+| Hash_table | 1 |
 | Linked_list | 1 |
-| **Total** | **2** |
+| **Total** | **3** |
 
 ## 난이도별 통계
 
 - Easy: 1
-- Medium: 1
+- Medium: 2
 
 ## 문제 목록
 
@@ -21,6 +22,12 @@
 | # | Title | Difficulty | Solution |
 |---|---|---|---|
 | 1 | Two Sum | Easy | [Link](array/001-two-sum/) |
+
+### Hash_table
+
+| # | Title | Difficulty | Solution |
+|---|---|---|---|
+| 3 | Longest Substring Without Repeating Characters | Medium | [Link](hash_table/003-longest-substring-without-repeating-characters/) |
 
 ### Linked_list
 
