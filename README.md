@@ -9,12 +9,13 @@
 | Binary_search | 1 |
 | Hash_table | 1 |
 | Linked_list | 1 |
-| **Total** | **4** |
+| Two_pointers | 1 |
+| **Total** | **5** |
 
 ## 난이도별 통계
 
 - Easy: 1
-- Medium: 2
+- Medium: 3
 - Hard: 1
 
 ## 문제 목록
@@ -42,5 +43,11 @@
 | # | Title | Difficulty | Solution |
 |---|---|---|---|
 | 1 | Add Two Numbers | Medium | [Link](linked_list/002-add-two-numbers/) |
+
+### Two_pointers
+
+| # | Title | Difficulty | Solution |
+|---|---|---|---|
+| 5 | Longest Palindromic Substring | Medium | [Link](two_pointers/005-Longest-Palindromic-Substring/) |
 
 <!-- STATS:END -->
