@@ -9,14 +9,15 @@
 | Binary_search | 1 |
 | Hash_table | 1 |
 | Linked_list | 1 |
+| Math | 1 |
 | String | 1 |
 | Two_pointers | 1 |
-| **Total** | **6** |
+| **Total** | **7** |
 
 ## 난이도별 통계
 
 - Easy: 1
-- Medium: 4
+- Medium: 5
 - Hard: 1
 
 ## 문제 목록
@@ -44,6 +45,12 @@
 | # | Title | Difficulty | Solution |
 |---|---|---|---|
 | 2 | Add Two Numbers | Medium | [Link](linked_list/002-add-two-numbers/) |
+
+### Math
+
+| # | Title | Difficulty | Solution |
+|---|---|---|---|
+| 7 | Zigzag Conversion | Medium | [Link](math/007-Reverse-Integer/) |
 
 ### String
 
