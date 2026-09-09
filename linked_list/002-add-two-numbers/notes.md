@@ -1,4 +1,4 @@
-# [1] Add Two Numbers
+# [2] Add Two Numbers
 
 **Difficulty:** Medium
 **Tags:** Linked List, Math, Recursion
