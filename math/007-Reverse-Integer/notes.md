@@ -1,4 +1,4 @@
-# [7] Zigzag Conversion
+# [7] Reverse Integer
 
 **Difficulty:** Medium
 **Tags:** Math
