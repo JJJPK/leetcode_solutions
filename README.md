@@ -10,14 +10,14 @@
 | Hash_table | 1 |
 | Linked_list | 1 |
 | Math | 1 |
-| String | 1 |
+| String | 2 |
 | Two_pointers | 1 |
-| **Total** | **7** |
+| **Total** | **8** |
 
 ## 난이도별 통계
 
 - Easy: 1
-- Medium: 5
+- Medium: 6
 - Hard: 1
 
 ## 문제 목록
@@ -50,13 +50,14 @@
 
 | # | Title | Difficulty | Solution |
 |---|---|---|---|
-| 7 | Zigzag Conversion | Medium | [Link](math/007-Reverse-Integer/) |
+| 7 | Reverse Integer | Medium | [Link](math/007-Reverse-Integer/) |
 
 ### String
 
 | # | Title | Difficulty | Solution |
 |---|---|---|---|
 | 6 | Zigzag Conversion | Medium | [Link](string/006-zigzag-conversion/) |
+| 8 | String to Integer (atoi) | Medium | [Link](string/008-String-to-Integer-(atoi)/) |
 
 ### Two_pointers
 
