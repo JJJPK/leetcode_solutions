@@ -9,14 +9,14 @@
 | Binary_search | 1 |
 | Hash_table | 1 |
 | Linked_list | 1 |
-| Math | 1 |
+| Math | 2 |
 | String | 2 |
 | Two_pointers | 1 |
-| **Total** | **8** |
+| **Total** | **9** |
 
 ## 난이도별 통계
 
-- Easy: 1
+- Easy: 2
 - Medium: 6
 - Hard: 1
 
@@ -51,6 +51,7 @@
 | # | Title | Difficulty | Solution |
 |---|---|---|---|
 | 7 | Reverse Integer | Medium | [Link](math/007-Reverse-Integer/) |
+| 9 | Palindrome Number | Easy | [Link](math/009-Palindrome-Number/) |
 
 ### String
 
