@@ -9,15 +9,15 @@
 | Binary_search | 1 |
 | Hash_table | 1 |
 | Linked_list | 1 |
-| Math | 2 |
+| Math | 3 |
 | String | 2 |
 | Two_pointers | 2 |
-| **Total** | **10** |
+| **Total** | **11** |
 
 ## 난이도별 통계
 
 - Easy: 2
-- Medium: 7
+- Medium: 8
 - Hard: 1
 
 ## 문제 목록
@@ -52,6 +52,7 @@
 |---|---|---|---|
 | 7 | Reverse Integer | Medium | [Link](math/007-Reverse-Integer/) |
 | 9 | Palindrome Number | Easy | [Link](math/009-Palindrome-Number/) |
+| 12 | Integer to Roman | Medium | [Link](math/012-Integer-to-Roman/) |
 
 ### String
 
